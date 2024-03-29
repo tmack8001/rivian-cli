@@ -1,7 +1,7 @@
 {
   "name": "rivian-cli",
   "version": "0.0.0",
-  "description": "oclif example Hello World CLI (ESM)",
+  "description": "Rivian CLI",
   "keywords": [
     "oclif"
   ],
@@ -42,8 +42,11 @@
     ],
     "topicSeparator": " ",
     "topics": {
-      "hello": {
-        "description": "Say hello to the world and others"
+      "auth": {
+        "description": "Authenticate to the Rivian Cloud API"
+      },
+      "charging": {
+        "description": "fetch user or specific vehicle charging session information"
       }
     }
   },
