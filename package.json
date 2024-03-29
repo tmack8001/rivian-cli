@@ -36,10 +36,6 @@
     "bin": "rivian",
     "commands": "./dist/commands",
     "dirname": "rivian",
-    "plugins": [
-      "@oclif/plugin-help",
-      "@oclif/plugin-plugins"
-    ],
     "topicSeparator": " ",
     "topics": {
       "auth": {
