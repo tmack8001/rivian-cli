@@ -71,7 +71,7 @@
     "json2csv": "^6.0.0-alpha.2",
     "mocha": "^10",
     "node-localstorage": "^3.0.5",
-    "oclif": "^4.4.19",
+    "oclif": "^4.11.0",
     "shx": "^0.3.4",
     "ts-node": "^10.9.2",
     "typescript": "^5"
